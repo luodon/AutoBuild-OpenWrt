@@ -12,7 +12,7 @@ config interface 'lan'
 	option type 'bridge'
 	option ifname 'eth0'
 	option proto 'static'
-	option ipaddr '192.168.123.2'
+	option ipaddr '192.168.4.100'
 	option netmask '255.255.255.0'
 	option delegate '0'
 
